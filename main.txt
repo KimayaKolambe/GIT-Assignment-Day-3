@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Hello All , welcome to git.
 lets solve merge conflicts
+=======
+
+Hello All
+
+Hey Kimaya
+  from Nishant
+
+>>>>>>> b8d4a592397a9dfb30ca28649c83d05704f22aeb
