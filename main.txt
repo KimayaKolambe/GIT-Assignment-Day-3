@@ -1,14 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hiii omkar molawade here
 =======
 <<<<<<< HEAD
 hello from Priti .
 =======
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+Hi, Good Morning
+from kimaya
+>>>>>>> 808bb33c307c0e03ce6acfb2b1e9bd490974e893
+=======
+hello from Priti .
+===
 hiii kimaya Rhutika here
 =======
-<<<<<<< HEAD
+
 Hello All , welcome to git.
 lets solve merge conflicts
 =======
@@ -18,10 +24,13 @@ Hello All
 Hey Kimaya
   from Nishant
 
->>>>>>> b8d4a592397a9dfb30ca28649c83d05704f22aeb
->>>>>>> 22d4b99d644e44e4676b3b4184c88e5a9efe19e6
-=======
+====
+
 Merged again solved by deepesh
+<<<<<<< HEAD
 >>>>>>> f530332b2bb4d0fde88f64607351009821cdba41
 >>>>>>> 5fa193e9e32490eb8c2f360baaba5ca4d163c2aa
 >>>>>>> 974cecddc2559d6a4efff48fbd5e6610107915a1
+=======
+
+>>>>>>> 808bb33c307c0e03ce6acfb2b1e9bd490974e893
