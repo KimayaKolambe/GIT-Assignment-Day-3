@@ -1,8 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+Hi, Good Morning
+from kimaya
+=======
+hello from Priti .
+===
 hiii kimaya Rhutika here
 =======
-<<<<<<< HEAD
+
 Hello All , welcome to git.
 lets solve merge conflicts
 =======
@@ -12,10 +16,12 @@ Hello All
 Hey Kimaya
   from Nishant
 
->>>>>>> b8d4a592397a9dfb30ca28649c83d05704f22aeb
->>>>>>> 22d4b99d644e44e4676b3b4184c88e5a9efe19e6
-=======
+====
+
 Merged again solved by deepesh
->>>>>>> f530332b2bb4d0fde88f64607351009821cdba41
+===
 
 rohit ghadage
+=======
+
+
