@@ -1,6 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+hiii omkar molawade here
+=======
+<<<<<<< HEAD
+hello from Priti .
+=======
 
 Hi, Good Morning
 from kimaya
+>>>>>>> 808bb33c307c0e03ce6acfb2b1e9bd490974e893
 =======
 hello from Priti .
 ===
@@ -19,9 +27,18 @@ Hey Kimaya
 ====
 
 Merged again solved by deepesh
+<<<<<<< HEAD
 ===
 
 rohit ghadage
 =======
 
+=======
+<<<<<<< HEAD
+>>>>>>> f530332b2bb4d0fde88f64607351009821cdba41
+>>>>>>> 5fa193e9e32490eb8c2f360baaba5ca4d163c2aa
+>>>>>>> 974cecddc2559d6a4efff48fbd5e6610107915a1
+=======
+>>>>>>> c8e669bd9d9ad60ac74ea17ced4227b173fc7a2f
 
+>>>>>>> 808bb33c307c0e03ce6acfb2b1e9bd490974e893
